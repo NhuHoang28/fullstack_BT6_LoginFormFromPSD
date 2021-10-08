@@ -93,6 +93,8 @@ input[type="password"] {
     margin-left: 24px;
     line-height: 30px;
     border: none;
+    font-size: 24px;
+    color: #6f7278;
     background-color: transparent;
     background-image: url(mail-icon.png);
     background-repeat: no-repeat;
